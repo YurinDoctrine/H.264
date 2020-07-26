@@ -1,20 +1,18 @@
 {
-  "extensionDescription": {
-    "message": "H.264 streams in YouTube instead VP9/AV01",
-    "description": "EXTENSION"
-  },
+	"extensionDescription": {
+		"message": "H.264 streams in YouTube instead VP9/AV01",
+		"description": "EXTENSION"
+	},
 
-  "optionsTitle": {
-    "message": "H.264 Options"
-  },
+	"optionsTitle": {
+		"message": "H.264 Options"
+	},
 
-  "optionsEnable": {
-    "message": "enable H.264"
-  },
+	"optionsEnable": {
+		"message": "enable H.264"
+	},
 
-  "optionsBlock60fps": {
-    "message": "block 60fps stream"
-  }
-
+	"optionsBlock60fps": {
+		"message": "block 60fps stream"
+	}
 }
-
