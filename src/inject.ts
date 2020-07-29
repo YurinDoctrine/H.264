@@ -22,7 +22,7 @@ function inject(options) {
 		return function(type) {
 			if (type === undefined) return '';
 
-			const disallowed_types = [ 'webm', 'vp9', 'av01' ];
+			const disallowed_types = [ 'av01', 'vp8', 'vp9', 'webm' ];
 
 			// If video type is in disallowed_types, say we don't support them
 			for (var i = 0; i < disallowed_types.length; i++) {
