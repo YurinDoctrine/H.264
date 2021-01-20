@@ -23,8 +23,7 @@
 				"*://*.youtube.com/*",
 				"*://*.youtube-nocookie.com/*",
 				"*://*.youtu.be/*",
-				"*://*.html5test.com/*",
-				"*://meet.google.com/*"
+				"*://*.html5test.com/*"
 			],
 			"js": [ "src/inject.js", "src/content_script.js" ],
 			"run_at": "document_start",
