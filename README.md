@@ -1,6 +1,6 @@
 # H.264
 
-- Official forked project ' H.264' chrome-extension homepage.
+- Official forked project H.264 chrome-extension homepage.
 
 ## INSTALLATION GUIDE
 
